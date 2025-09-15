@@ -1,0 +1,14 @@
+*.fig
+*.sketch
+*.xd
+*.ai
+*.psd
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.pptx
+*.ppt
+/backup
+.DS_Store
