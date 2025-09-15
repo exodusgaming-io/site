@@ -127,11 +127,11 @@
         .one-section, .two-section, .three-section, .five-section { height: auto; }
         .blur-section { padding: 24px; padding-top: 280px; }
         .one-section p, .five-section p { max-width: 100%; }
-        .one-section .section-element { background-size: 250px; background-position: top center; }
-        .two-section .section-element { background-size: 200px; background-position: top center; }
-        .three-section .section-element { background-size: 250px; background-position: top center; }
+        .one-section .section-element { background-size: 272px; background-position: top center; }
+        .two-section .section-element { background-size: 246px; background-position: top center; }
+        .three-section .section-element { background-size: 260px; background-position: top center; }
         .four-section { height: 530px; flex-direction: column; }
-        .five-section .section-element { background-size: 250px; background-position: top center; }
+        .five-section .section-element { background-size: 260px; background-position: top center; }
         .six-section:before, .six-section:after { display: none; }
         .seven-section h2 { font-size: 32px; }
         .specification-title { font-size: 20px; }
